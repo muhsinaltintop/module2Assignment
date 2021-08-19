@@ -54,7 +54,7 @@ p {
   }
   .col-md-3 {
     width: 100%;
-    clear: both;
+    float: right;
   }
   
 }
