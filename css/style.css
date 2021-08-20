@@ -43,18 +43,20 @@ p {
 /********** Tablet **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-1, .col-md-2, .col-md-3 {
-    float: left;
+   
     border: 1px solid green;
   }
   .col-md-1 {
+    float: left;
     width: 50%;
   }
   .col-md-2 {
+    float: left;
     width: 50%;
   }
   .col-md-3 {
     width: 100%;
-    float: right;
+    clear: both;
   }
   
 }
