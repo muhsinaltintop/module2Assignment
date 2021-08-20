@@ -55,6 +55,7 @@ p {
     width: 50%;
   }
   .col-md-3 {
+    position: relative;
     width: 100%;
     clear: both;
   }
