@@ -9,6 +9,7 @@ h1 {
 
 .header2 {
   border: 1px solid black;
+  color: white;
   text-align: right;
   background-color: #0000ff;
   width: %10;
