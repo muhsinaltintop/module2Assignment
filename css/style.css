@@ -12,7 +12,7 @@ h1 {
   color: white;
   text-align: right;
   background-color: #0000ff;
-  margin-left: %50;
+  width: 25%;
 }
 
 p {
