@@ -7,14 +7,12 @@ h1 {
   
 }
 
-.header2 {
+* h2 {
   border: 1px solid black;
   text-align: right;
   background-color: #0000ff;
   position: relative;
   width: %33;
-  clear: both;
-  
 }
 
 p {
